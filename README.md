@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-legithd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-legithd" /> </p>
 
-- 🔭 I’m currently working on [my Discord Bot](https://top.gg/de/bot/750778627565682798)
+- 🔭 I’m currently working on [my Discord Bot](https://discord.com/oauth2/authorize?client_id=750778627565682798&scope=bot+applications.commands&permissions=268463110
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [Youtube](https://top.gg/de/bot/750778627565682798)
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCe8gmCLmDueG4qHfFUExT1Q)
 
 - 💬 Ask me about **Discord**
 
