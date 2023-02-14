@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Discord**
 
-- 📫 How to reach me **Discord | Salvatore#6284**
+- 📫 How to reach me **Discord | Salvatore#3001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
